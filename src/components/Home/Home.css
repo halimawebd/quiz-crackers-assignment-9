@@ -1,0 +1,17 @@
+.center{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    padding-left: 30%;
+}
+.half-width{
+    width: 50%;
+    height: 50%;
+    /* margin-top: 20px; */
+}
+.half-width img{
+    width: 30%;
+    border-radius: 15px;
+    padding-left: 10%;
+
+}
